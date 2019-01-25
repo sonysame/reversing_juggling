@@ -148,10 +148,10 @@ payload="""<?xml version="1.0" encoding="UTF-8"?>
 				<paella>"""+first_k+"""</paella>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
 				<宫保鸡丁>1</宫保鸡丁>
@@ -187,10 +187,10 @@ while (flag):
 					<paella>"""+first_k+"""</paella>
 				</plate>
 				<plate>
-					<Борщ>1</Борщ>s
+					<Борщ>1</Борщ>
 				</plate>
 				<plate>
-					<Борщ>1</Борщ>s
+					<Борщ>1</Борщ>
 				</plate>
 				<plate>
 					<paella>"""+k+"""</paella>
@@ -238,13 +238,13 @@ payload="""<?xml version="1.0" encoding="UTF-8"?>
 				<paella>"""+first_k+"""</paella>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
 				<宫保鸡丁>1</宫保鸡丁>
@@ -282,13 +282,13 @@ while (flag):
 					<paella>"""+first_k+"""</paella>
 				</plate>
 				<plate>
-					<Борщ>1</Борщ>s
+					<Борщ>1</Борщ>
 				</plate>
 				<plate>
-					<Борщ>1</Борщ>s
+					<Борщ>1</Борщ>
 				</plate>
 				<plate>
-					<Борщ>1</Борщ>s
+					<Борщ>1</Борщ>
 				</plate>
 				<plate>
 					<paella>"""+k+"""</paella>
@@ -339,16 +339,16 @@ payload="""<?xml version="1.0" encoding="UTF-8"?>
 				<paella>"""+first_k+"""</paella>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
 				<宫保鸡丁>1</宫保鸡丁>
@@ -393,16 +393,16 @@ while (flag):
 					<paella>"""+first_k+"""</paella>
 				</plate>
 				<plate>
-					<Борщ>1</Борщ>s
+					<Борщ>1</Борщ>
 				</plate>
 				<plate>
-					<Борщ>1</Борщ>s
+					<Борщ>1</Борщ>
 				</plate>
 				<plate>
-					<Борщ>1</Борщ>s
+					<Борщ>1</Борщ>
 				</plate>
 				<plate>
-					<Борщ>1</Борщ>s
+					<Борщ>1</Борщ>
 				</plate>
 				<plate>
 					<paella>"""+k+"""</paella>
@@ -459,19 +459,19 @@ payload="""<?xml version="1.0" encoding="UTF-8"?>
 				<paella>"""+first_k+"""</paella>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
-				<Борщ>1</Борщ>s
+				<Борщ>1</Борщ>
 			</plate>
 			<plate>
 				<宫保鸡丁>1</宫保鸡丁>
