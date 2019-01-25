@@ -1,0 +1,10 @@
+Reading input document from stdin...
+XSLT message: 13750475192421498105367948933025895081651866205279 (Occurred in entity 'file:///home/user/challenge.min.xslt', at line 49, column 49.)
+Source tree node: meal.
+XSLT message:  (Occurred in entity 'file:///home/user/challenge.min.xslt', at line 54, column 54.)
+Source tree node: meal.
+XSLT message:  (Occurred in entity 'file:///home/user/challenge.min.xslt', at line 49, column 49.)
+Source tree node: meal.
+XSLT message:  (Occurred in entity 'file:///home/user/challenge.min.xslt', at line 54, column 54.)
+Source tree node: meal.
+<?xml version="1.0" encoding="UTF-8"?><all><flag>review_{cu5t0m_b1n4ry_s34rch1ng}</flag></all>
